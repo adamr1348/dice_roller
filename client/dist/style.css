@@ -1,0 +1,11 @@
+.diePic {
+  height: 10vh;
+  width: 10vh
+}
+
+.picHolder {
+  margin-top: 10vh;
+  display: flex;
+  width: 100%;
+  align-content: space-between
+}
